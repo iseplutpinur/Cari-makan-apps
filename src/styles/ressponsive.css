@@ -1,7 +1,6 @@
 @media screen and (max-width:768px) {
     .menu-toggle {
         display: flex;
-        margin-left: 20px;
     }
     nav .container {
         flex-direction: row-reverse;

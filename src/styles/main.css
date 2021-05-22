@@ -76,9 +76,8 @@ nav .container ul li a:focus::after, nav .container ul li a:hover::after {
 
 .menu-toggle {
     font-size: 32px;
-    margin: 10px auto;
+    padding: 5px 10px;
     display: none;
-    margin-top: 5px;
     text-decoration: none;
     color: #fafafa;
 }

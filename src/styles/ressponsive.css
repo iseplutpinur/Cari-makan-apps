@@ -3,6 +3,9 @@
         display: flex;
         margin-left: 20px;
     }
+    nav .container {
+        flex-direction: row-reverse;
+    }
     nav .container .logo {
         flex: 1;
         text-align: center;
